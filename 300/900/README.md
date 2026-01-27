@@ -5,11 +5,11 @@ mkdir -p ~/opt/local/code
 cd ~/opt/local/code
 
 # 2. Clone all repositories from stallone-7849 organization
-git clone git@github.com:stallone-7849/stallone-project-management.git
-git clone git@github.com:stallone-7849/stallone-theme-management.git
-git clone git@github.com:stallone-7849/stallone-story-management.git
-git clone git@github.com:stallone-7849/stallone-flow-management.git
-git clone git@github.com:stallone-7849/stallone-task-management.git
+git clone git@github.com:stallone-7849/stallone-project-management.git  
+git clone git@github.com:stallone-7849/stallone-theme-management.git  
+git clone git@github.com:stallone-7849/stallone-story-management.git  
+git clone git@github.com:stallone-7849/stallone-flow-management.git  
+git clone git@github.com:stallone-7849/stallone-task-management.git  
 
 # 3. Verify structure
 ls -la ~/opt/local/code/
