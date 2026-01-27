@@ -1,2 +1,1 @@
-# stallone-task-management
-Stallone Task Management
+# Stallone Task Management
