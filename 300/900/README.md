@@ -24,6 +24,7 @@ ls -la ~/opt/local/code/
 #   stallone-story-management/
 #   stallone-flow-management/
 #   stallone-task-management/
+```
 
 # 4. Set up GitHub authentication
 ```
@@ -67,8 +68,12 @@ mkdir -p ~/opt/local/code/stallone-task-management/automation/logs
 ```
 
 # 9. Make scripts executable
+```
 chmod +x ~/opt/local/code/stallone-task-management/automation/cron/*.sh
+```
 
 # 10. Test manually
+```
 cd ~/opt/local/code/stallone-task-management
 ./automation/cron/daily-prep.sh
+```
